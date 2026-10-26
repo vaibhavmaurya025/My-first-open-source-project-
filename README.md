@@ -1,4 +1,4 @@
-# My-first-open-source-project-
+# My-first-open-source-project
 Created by: Vaibhav Maurya
 College Name: Samrat Ashok Rajkiya Engineering College Mirzapur
 
